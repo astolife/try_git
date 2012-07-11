@@ -1,1 +1,1 @@
-ver 00 -딜런 초기화
+ver 01 -by colin
