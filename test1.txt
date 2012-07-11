@@ -1,9 +1,1 @@
-ver 02 -tag버젼
-dylan1 commit.
-..
-.
-=======
-.
-.
-credit의 1번째 수정.
-
+ver -1
